@@ -1,0 +1,5 @@
+Flight1:1A 3YUPKMIU 123456 customer1 customer1,1B F,1C F,1D F,2A F,2B F,2C F,2D F
+Flight2:1A F,1B F,1C F,1D F,2A F,2B F,2C F,2D F
+
+
+
